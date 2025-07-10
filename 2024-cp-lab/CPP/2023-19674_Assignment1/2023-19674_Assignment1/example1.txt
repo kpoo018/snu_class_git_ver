@@ -1,0 +1,340 @@
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 1
+----------------------
+Enter student type (Scientist, Athlete, Artist): Scientist
+Enter student name: hs
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 4
+----------------------
+Status of hs: Knowledge: 0, Social: 0, Energy: 100
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 1
+----------------------
+Enter student type (Scientist, Athlete, Artist): Athlete
+Enter student name: hr
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 4
+----------------------
+Status of hs: Knowledge: 0, Social: 0, Energy: 100
+Status of hr: Health: 0, Social: 0, Energy: 100
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 1
+----------------------
+Enter student type (Scientist, Athlete, Artist): Artist
+Enter student name: jj
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 4
+----------------------
+Status of hs: Knowledge: 0, Social: 0, Energy: 100
+Status of hr: Health: 0, Social: 0, Energy: 100
+Status of jj: Creativity: 0, Social: 0, Energy: 100
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 2
+----------------------
+Enter student name: jj
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of jj: Creativity: 20, Social: 0, Energy: 85
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 2
+----------------------
+Status of jj: Creativity: 20, Social: 20, Energy: 70
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 3
+----------------------
+Status of jj: Creativity: 20, Social: 20, Energy: 120
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 5
+----------------------
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 2
+----------------------
+Enter student name: hs
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of hs: Knowledge: 20, Social: 0, Energy: 85
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of hs: Knowledge: 40, Social: 0, Energy: 70
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of hs: Knowledge: 60, Social: 0, Energy: 55
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of hs: Knowledge: 80, Social: 0, Energy: 40
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of hs: Knowledge: 100, Social: 0, Energy: 25
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 5
+----------------------
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 3
+----------------------
+Enter first student name for the contest: jj
+Enter second student name for the contest: hs
+Contesting jj vs. hs
+jj wins!
+Status of jj: Creativity: 30, Social: 20, Energy: 120
+Status of hs: Knowledge: 100, Social: 0, Energy: 10
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 4
+----------------------
+Status of hs: Knowledge: 100, Social: 0, Energy: 10
+Status of hr: Health: 0, Social: 0, Energy: 100
+Status of jj: Creativity: 30, Social: 20, Energy: 120
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 2
+----------------------
+Enter student name: hr
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of hr: Health: 20, Social: 0, Energy: 85
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 2
+----------------------
+Status of hr: Health: 20, Social: 20, Energy: 70
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 2
+----------------------
+Status of hr: Health: 20, Social: 40, Energy: 55
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of hr: Health: 40, Social: 40, Energy: 40
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 2
+----------------------
+Status of hr: Health: 40, Social: 60, Energy: 25
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 2
+----------------------
+Status of hr: Health: 40, Social: 80, Energy: 10
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+hr is too tired to exercise.
+Status of hr: Health: 40, Social: 80, Energy: 10
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 4
+----------------------
+Status of hr: Health: 40, Social: 80, Energy: 10
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 5
+----------------------
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 3
+----------------------
+Enter first student name for the contest: hr
+Enter second student name for the contest: jj
+hr is too tired to contest.
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 2
+----------------------
+Enter student name: hr
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 3
+----------------------
+Status of hr: Health: 40, Social: 80, Energy: 60
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 5
+----------------------
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 3
+----------------------
+Enter first student name for the contest: hr
+Enter second student name for the contest: jj
+Contesting hr vs. jj
+hr wins!
+Status of hr: Health: 50, Social: 80, Energy: 60
+Status of jj: Creativity: 30, Social: 20, Energy: 105
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 5
+----------------------

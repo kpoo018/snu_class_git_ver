@@ -1,0 +1,122 @@
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 1
+----------------------
+Enter student type (Scientist, Athlete, Artist): Scientist
+Enter student name: bs
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 2
+----------------------
+Enter student name: bs
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of bs: Knowledge: 20, Social: 0, Energy: 85
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 2
+----------------------
+Status of bs: Knowledge: 20, Social: 20, Energy: 70
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 5
+----------------------
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 1
+----------------------
+Enter student type (Scientist, Athlete, Artist): Artist
+Enter student name: jw
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 2
+----------------------
+Enter student name: jw
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 1
+----------------------
+Status of jw: Creativity: 20, Social: 0, Energy: 85
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 2
+----------------------
+Status of jw: Creativity: 20, Social: 20, Energy: 70
+--- Training Menu ---
+1. Do Activity
+2. Meet Friends
+3. Rest
+4. Show Status
+5. Exit
+Enter your choice: 5
+----------------------
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 3
+----------------------
+Enter first student name for the contest: bs
+Enter second student name for the contest: jw
+Contesting bs vs. jw
+It's a tie!
+Status of bs: Knowledge: 20, Social: 20, Energy: 60
+Status of jw: Creativity: 20, Social: 20, Energy: 60
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 4
+----------------------
+Status of bs: Knowledge: 20, Social: 20, Energy: 60
+Status of jw: Creativity: 20, Social: 20, Energy: 60
+--- Main Menu ---
+1. Add Student
+2. Train Student
+3. Contest Students
+4. Students Status
+5. Exit
+Enter your choice: 5
+----------------------

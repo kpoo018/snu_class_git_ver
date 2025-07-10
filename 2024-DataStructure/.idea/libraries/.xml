@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="서버접속">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/서버접속/testcase.zip!/" />
+      <root url="jar://$PROJECT_DIR$/서버접속/check.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
