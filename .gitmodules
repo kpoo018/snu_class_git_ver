@@ -13,3 +13,6 @@
 [submodule "2025-systemprogramming"]
 	path = 2025-systemprogramming
 	url = git@github.com:kpoo018/2025-systemprogramming.git
+[submodule "2023-pp-project"]
+	path = 2023-pp-project
+	url = git@github.com:kpoo018/2023-pp-project.git
