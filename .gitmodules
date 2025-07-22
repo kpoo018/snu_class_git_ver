@@ -1,0 +1,15 @@
+[submodule "2024-DataStructure"]
+	path = 2024-DataStructure
+	url = git@github.com:kpoo018/2024-DataStructure.git
+[submodule "2024-algorithm"]
+	path = 2024-algorithm
+	url = git@github.com:kpoo018/2024-algorithm.git
+[submodule "2024-cp-lab"]
+	path = 2024-cp-lab
+	url = git@github.com:kpoo018/2024-cp-lab.git
+[submodule "2025-DataBase"]
+	path = 2025-DataBase
+	url = git@github.com:kpoo018/2025-DataBase.git
+[submodule "2025-systemprogramming"]
+	path = 2025-systemprogramming
+	url = git@github.com:kpoo018/2025-systemprogramming.git

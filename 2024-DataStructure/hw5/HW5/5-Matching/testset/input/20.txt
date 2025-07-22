@@ -1,4 +1,0 @@
-< ./testset/text/z.txt
-? aaaaaaaaaaa
-? aaaaaaaa
-QUIT
